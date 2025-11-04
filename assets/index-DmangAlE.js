@@ -1,1 +1,0 @@
-import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{g as r,o,a0 as n}from"./index-CWN9ORbu.js";const a={};function c(e,s){return o(),r("div",null,n(e.$t("pages.controlCenter.alarm.title")),1)}const _=t(a,[["render",c]]);export{_ as default};
