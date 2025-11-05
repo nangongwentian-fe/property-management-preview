@@ -1,0 +1,1 @@
+import{a as t,g as s,o as e}from"./index-CxnyV8kw.js";import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";const r={class:"Propertystatus"},a=t({__name:"Propertystatus",setup(c){return(_,p)=>(e(),s("div",r,"物業態勢"))}}),d=o(a,[["__scopeId","data-v-dc52c51f"]]);export{d as default};

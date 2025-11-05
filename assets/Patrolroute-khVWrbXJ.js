@@ -1,0 +1,1 @@
+import{a as o,g as t,o as e}from"./index-CxnyV8kw.js";import{_ as a}from"./_plugin-vue_export-helper-DlAUqK2U.js";const r={class:"Patrolroute"},s=o({__name:"Patrolroute",setup(_){return(c,n)=>(e(),t("div",r,"巡更路線"))}}),m=a(s,[["__scopeId","data-v-4a86d0f6"]]);export{m as default};

@@ -1,0 +1,1 @@
+import{a as e,g as t,o}from"./index-CxnyV8kw.js";import{_ as s}from"./_plugin-vue_export-helper-DlAUqK2U.js";const a={class:"Equipmentposture"},p=e({__name:"Equipmentposture",setup(n){return(r,_)=>(o(),t("div",a,"设备態勢"))}}),u=s(p,[["__scopeId","data-v-2a8beab9"]]);export{u as default};
