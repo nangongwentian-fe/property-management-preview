@@ -1,1 +1,0 @@
-import{a as n,g as s,o as c,L as t}from"./index-CxnyV8kw.js";import{_ as a}from"./_plugin-vue_export-helper-DlAUqK2U.js";const r={class:"icon"},_=["xlink:href"],i=n({__name:"index",props:{iconName:String},setup(e){const o=e;return(p,m)=>(c(),s("svg",r,[t("use",{"xlink:href":`#icon-${o.iconName}`},null,8,_)]))}}),f=a(i,[["__scopeId","data-v-5de5b9a5"]]);export{f as S};
